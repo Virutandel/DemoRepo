@@ -1,15 +1,14 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="maven test">
-
 	<test name="test maven testing">
-
 		<packages>
 
 			<package name="src.test.java.*" />
 
 		</packages>
-
 	</test>
-
-
 </suite>
+
+
+
+

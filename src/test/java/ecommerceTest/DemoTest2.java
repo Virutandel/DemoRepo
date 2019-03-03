@@ -29,6 +29,7 @@ public class DemoTest2 {
 		int b = 10;
 		System.out.println("MULT");
 		assertEquals(200, a * b);
+		System.out.println("File Update");
 	}
 
 	@Test
